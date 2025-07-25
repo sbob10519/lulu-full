@@ -1,12 +1,12 @@
 
 body {
-    font-family: 'Arial', sans-serif;
-    background: #fff8f0;
-    direction: rtl;
-    color: #333;
-    padding: 2em;
+  font-family: 'Arial', sans-serif;
+  background-color: #fff7f0;
+  color: #333;
+  direction: rtl;
+  text-align: center;
+  padding: 2rem;
 }
 h1 {
-    color: #DC143C;
+  color: #d61a4e;
 }
-    

@@ -1,5 +1,4 @@
 
-document.addEventListener("DOMContentLoaded", () => {
-    console.log("גרסת הדמו של לולו נטענה בהצלחה!");
+document.addEventListener('DOMContentLoaded', () => {
+  console.log("Lulu Full site loaded");
 });
-    
